@@ -1,4 +1,4 @@
-# Analysis-E-Commerce-Public
+# Analysis E Commerce Public
 
 ## Setup environment
 
